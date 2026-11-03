@@ -89,5 +89,3 @@ The environment could be extended to explore inverse kinematics, advanced motion
 - Mohammad Mahdi Khademi
 
 **Academic supervisor:** Dr. Seyed Hassan Zabihifar
-
-**Original collaborative repository:** [RoArm-M3-Pro-Simulation](https://github.com/Mohammad-Mahdi-Khademi/RoArm-M3-Pro-Simulation)
